@@ -1,6 +1,6 @@
 import React from "react";
 
-const Uno = ({ color }) => {
+const Uno = ({color }) => {
   return (
     <div className="parte-1" style={{ backgroundColor: color }}>
       <div className="parte-1-1">
